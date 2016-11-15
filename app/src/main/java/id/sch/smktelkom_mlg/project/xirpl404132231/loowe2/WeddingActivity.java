@@ -24,5 +24,7 @@ public class WeddingActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Wedding Cake");
     }
 }

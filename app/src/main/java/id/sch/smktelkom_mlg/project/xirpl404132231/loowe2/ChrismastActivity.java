@@ -24,5 +24,7 @@ public class ChrismastActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Chrismast Cake");
     }
 }

@@ -94,4 +94,7 @@
     </string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_christmast">ChristmastActivity</string>
+    <string name="title_activity_pasta">PastaActivity</string>
+    <string name="title_activity_pizza">PizzaActivity</string>
+    <string name="title_activity_torta">Torta</string>
 </resources>

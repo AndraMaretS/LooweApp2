@@ -27,6 +27,19 @@
         <activity
             android:name=".ChrismastActivity"
             android:label="@string/title_activity_chrismast"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ItalianActivity" />
+        <activity
+            android:name=".PastaActivity"
+            android:label="@string/title_activity_pasta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PizzaActivity"
+            android:label="@string/title_activity_pizza"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TortaActivity"
+            android:label="@string/title_activity_torta"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

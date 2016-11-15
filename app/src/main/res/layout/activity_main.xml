@@ -11,7 +11,7 @@
     tools:context="id.sch.smktelkom_mlg.project.xirpl404132231.loowe2.MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonCake"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -20,5 +20,15 @@
         android:layout_marginLeft="117dp"
         android:layout_marginStart="117dp"
         android:layout_marginTop="43dp"
-        android:text="Button" />
+        android:text="Cake" />
+
+    <Button
+        android:id="@+id/buttonItali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonCake"
+        android:layout_alignStart="@+id/buttonCake"
+        android:layout_below="@+id/buttonCake"
+        android:layout_marginTop="40dp"
+        android:text="Italian Food" />
 </RelativeLayout>

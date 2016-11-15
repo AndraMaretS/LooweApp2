@@ -7,12 +7,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-public class BirthdayActivity extends AppCompatActivity {
+public class TortaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_birthday);
+        setContentView(R.layout.activity_torta);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -24,7 +24,5 @@ public class BirthdayActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
-        setTitle("Birthday Cake");
     }
 }
