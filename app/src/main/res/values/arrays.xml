@@ -15,43 +15,179 @@
   -->
 <resources>
     <string-array name="food">
-        <item>Palais Garnie</item>
-        <item>Piazza del Duomo</item>
-        <item>Manhattan</item>
+		<item>Birthday Cake</item>
+		<item>Christmas Cake </item>
+		<item>Wedding Cake</item>
     </string-array>
     <string-array name="food_desc">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
+        <item>Here is a birthday cake, it is practical and at the same time it can be made fancy with Decorator Frosting (found on our site). 
+		One or more layers can be tinted by adding food coloring.
         </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
+        <item>This cake is a rich, dark, moist fruit cake, very flavorful at Christmas. Try icing with almond paste for a more festive touch. This recipe is started in October or November so as to let it mellow before the holidays. 
+		I remember very well my mother storing her fruit cake in an old butter churn that belonged to my grandmother and great grandmother. I wish that I had that old crock.</item>
+		<item>This is a very simple moist white cake. It works best if all of the ingredients are at room temperature.</item>
     </string-array>
-    <string-array name="food_details">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-    </string-array>
-    <array name="food_picture">
+
+	<string-array name="food_bahan1">
+	<item>
+	One and a half of cups butter
+	</item>
+	<item>
+	Two (8 ounce) containers candied cherries
+	</item>
+	<item>
+	One cup butter, softened
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan2">
+	<item>
+	Two cups confectioners sugar
+	</item>
+	<item>
+	One (8 ounce) container candied mixed citrus peel
+	</item>
+	<item>
+	Three cups white sugar
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan3">
+	<item>
+	Seven egg yolks
+	</item>
+	<item>
+	Two cups raisins
+	</item>
+	<item>
+	Seven eggs
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan4">
+	<item>
+	Four and a half cups cake flour
+	</item>
+	<item>
+	A cup dried currants
+	</item>
+	<item>
+	A tablespoon vanilla extract
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan5">
+	<item>
+	Three quarters teaspoon salt
+	</item>
+	<item>
+	A cup dates, pitted and chopped
+	</item>
+	<item>
+	Three cups all-purpose flour
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan6">
+	<item>
+	Two and a half teaspoons baking powder
+	</item>
+	<item>
+	Two (2.25 ounce) packages blanched slivered almonds
+	</item>
+	<item>
+	A quarter teaspoon baking powder
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan7">
+	<item>
+	One and three quarters cups milk
+	</item>
+	<item>
+	A half cup brandy
+	</item>
+	<item>
+	A quarter teaspoon baking soda
+	</item>
+	</string-array>
+
+	<string-array name="food_bahan8">
+	<item>
+	One and a half teaspoons vanilla extract
+	</item>
+	<item>
+	A half cup all-purpose flour
+	</item>
+	<item>
+	A cup sour cream
+	</item>
+	</string-array>
+
+	<string-array name="food_langkah1">
+	<item>
+	Preheat oven to 375 degrees F (190 degrees C). 
+	Grease and flour three 8 inch round pans.
+	</item>
+	<item>
+	In a medium bowl, combine cherries, citrus peel, raisins, currants, dates, and almonds. Stir in brandy; let stand 2 hours, or overnight. 
+	Dredge soaked fruit with 1/2 cup flour.
+	</item>
+	<item>
+	Preheat oven to 325 degrees F (165 degrees C). 
+	Grease and flour a 9x13 inch pan or a 10 inch Bunt pan.
+	</item>
+	</string-array>
+
+	<string-array name="food_langkah2">
+	<item>
+	Sift flour before measuring; resift with salt and baking powder at least twice more.
+	</item>
+	<item>
+	Preheat oven to 275 degrees F (135 degrees C). Grease an 8x8x3 inch fruit cake pan, line with parchment paper, and grease again. 
+	In a small bowl, mix together 2 cups flour, baking soda, cloves, allspice, cinnamon, and salt; set aside.
+	</item>
+	<item>
+	In a large bowl, cream together the butter and sugar. Beat in the eggs, one at a time, mixing well after each. Then stir in the vanilla. Combine the flour, baking soda and baking powder, add to the creamed mixture and mix until all of the flour is absorbed. Finally, stir in the sour cream. Mix for 1 or 2 minutes just to be sure there are no lumps. 
+	Pour the batter into the prepared pan.
+	</item>
+	</string-array>
+
+	<string-array name="food_langkah3">
+	<item>
+	Beat egg yolks until very thick and pale - approximately 5 minutes with a mixer on high speed.
+	</item>
+	<item>
+	In a large bowl, cream butter until light. Gradually blend in brown sugar and eggs. Mix together molasses and apple juice. Beat into butter mixture alternately with flour mixture, making 4 dry and 3 liquid additions. 
+	Fold in floured fruit. Turn batter into prepared pan.
+	</item>
+	<item>
+	Bake in the preheated oven for 45 to 60 minutes, or until a toothpick inserted into the center of cake comes out clean. 
+	For Bunt cakes, allow the cake to cool in the pan for 10 minutes before inverting onto a wire rack.
+	</item>
+	</string-array>
+
+	<string-array name="food_langkah4">
+	<item>
+	In a large bowl, cream butter or margarine and sugar. Blend in eggs. Fold sifted mixture, alternately with milk, into creamed mixture. 
+	Stir in vanilla. Pour batter into prepared pans.
+	</item>
+	<item>
+	Bake in preheated oven for 3 to 3 1/2 hours, or until a toothpick inserted into the center of cake comes out clean. Remove from pan, and lift off paper. 
+	Cool cake completely, then wrap loosely in waxed paper. Store in an airtight container.
+	</item>
+	</string-array>
+
+	<string-array name="food_langkah5">
+	<item>
+	Bake for 25 to 30 minutes, until cake springs back when touched. Cool in pans for 10 minutes. 
+	Turn out, and cool on wire rack. Frost with Decorator Frosting.
+	</item>
+	</string-array>
+
+	<array name="food_picture">
         <item>@drawable/birthday</item>
-        <item>@drawable/chrismast</item>
+		<item>@drawable/ch</item>
         <item>@drawable/wedding</item>
     </array>
 </resources>

@@ -24,7 +24,5 @@ public class BirthdayActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
-        setTitle("Birthday Cake");
     }
 }
