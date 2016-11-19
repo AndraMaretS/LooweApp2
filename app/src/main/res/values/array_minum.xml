@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="minum">
+        <item>Cocktail</item>
+        <item>Coffee</item>
+        <item>Ice Cream</item>
+    </string-array>
+
+    <string-array name="des">
+        <item>
+            The daiquiri is believed to have originated in Cuba. Shake rum, lime juice, and simple syrup with ice and serve.
+        </item>
+        <item>
+            Traditional Vietnamese coffee with an optional delicious twist!
+        </item>
+        <item>
+            This is a very rich, custard style ice cream with NO raw eggs!
+        </item>
+    </string-array>
+
+    <string-array name="bahan1">
+        <item>
+            One and a half of fluid ounces light rum
+        </item>
+        <item>
+            Two tablespoons sweetened condensed milk, or more to taste
+        </item>
+        <item>
+            Three quarter cup sugar
+        </item>
+    </string-array>
+
+    <string-array name="bahan2">
+        <item>
+            One fluid ounce lime juice
+        </item>
+        <item>
+            Two third of cup strong brewed coffee
+        </item>
+        <item>
+            One cup milk
+        </item>
+    </string-array>
+
+    <string-array name="bahan3">
+        <item>
+            One teaspoon simple syrup
+        </item>
+        <item>
+            One teaspoon non-dairy creamer, or more to taste
+        </item>
+        <item>
+            A quarter of teaspoon salt
+        </item>
+    </string-array>
+
+    <string-array name="bahan4">
+        <item>
+            One cup ice
+        </item>
+        <item>
+            One teaspoon hot cocoa mix, or more to taste (optional)
+        </item>
+        <item>
+            Two tablespoons unsweetened cocoa powder
+        </item>
+    </string-array>
+
+    <string-array name="bahan5">
+        <item></item>
+        <item></item>
+        <item>
+            Three egg yolk, lightly beaten
+        </item>
+    </string-array>
+
+    <string-array name="bahan6">
+        <item></item>
+        <item></item>
+        <item>
+            Two ounces semisweet chocolate, chopped
+        </item>
+    </string-array>
+
+    <string-array name="bahan7">
+        <item></item>
+        <item></item>
+        <item>
+            Two cups heavy cream
+        </item>
+    </string-array>
+
+    <string-array name="bahan8">
+        <item></item>
+        <item></item>
+        <item>
+            One teaspoon vanilla extract
+        </item>
+    </string-array>
+
+    <string-array name="step1">
+        <item>
+            Combine light rum, lime juice, and simple syrup in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass.
+        </item>
+        <item>
+            Pour some boiling water in a glass. Let sit to warm the glass, about 1 minute. Pour out water
+        </item>
+        <item>
+            Combine sugar, milk, salt, and cocoa powder in a saucepan over medium heat, stirring constantly. Bring to a simmer. Place the egg yolks into a small bowl. Gradually stir in about 1/2 cup of the hot liquid. and return to the saucepan. Heat until thickened, but do not boil. Remove from the heat, and stir in the chopped chocolate until chocolate is melted.
+            Pour into a chilled bowl, and refrigerate for about two hours until cold, stirring occasionally.
+        </item>
+    </string-array>
+
+    <string-array name="step2">
+        <item></item>
+        <item>
+            Pour condensed milk into the warmed glass. Top with coffee. Stir in creamer and hot cocoa mix.
+        </item>
+        <item>
+            When chocolate mixture has completely cooled, stir in the cream, and vanilla. Pour into an ice cream maker, and freeze according to manufacturer's directions.
+        </item>
+    </string-array>
+
+    <string-array name="fot">
+        <item>@drawable/cocktail</item>
+        <item>@drawable/coffee</item>
+        <item>@drawable/ice</item>
+    </string-array>
+</resources>

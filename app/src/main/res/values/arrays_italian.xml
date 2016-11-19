@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="italian">
+        <item>Grilled Pizza</item>
+        <item>Pasta</item>
+        <item>Torta</item>
+    </string-array>
+
+    <string-array name="decs">
+        <item>Pizza dough made from scratch is topped with mozzarella cheese, sauce, and your choice of savory toppings, then grilled to perfection for a fun outdoor treat.</item>
+        <item>Pasta is popular dishes from Italian. You can include almost any vegetables you have in your fridge in this recipe. It is popular even with those who normally scorn vegetarian food.</item>
+        <item>This savory pie is served at room temperature. Two teaspoons dried basil may be substituted for fresh basil. Use ham or prosciutto ham.</item>
+    </string-array>
+
+    <string-array name="bahan1">
+    <item>
+	Three and a half cups all-purpose flour, or as needed
+	</item>
+	<item>
+    One third cup olive oil
+    </item>
+    <item>
+    Two and a quater cups all-purpose flour
+    </item>
+    </string-array>
+
+    <string-array name="bahan2">
+        <item>
+			One envelope Fleischmann's Pizza Crust Yeast
+		</item>
+		<item>
+			Two tablespoons red wine vinegar
+		</item>
+        <item>
+            Three quarter cup cornmeal
+        </item>
+    </string-array>
+
+    <string-array name="bahan3">
+        <item>
+			One tablespoon sugar
+		</item>
+		<item>
+			One teaspoon dried basil
+		</item>
+        <item>
+            a half of teaspoon salt
+        </item>
+    </string-array>
+
+    <string-array name="bahan4">
+        <item>
+			One and a half teaspoons salt
+		</item>
+		<item>
+			One teaspoon dried oregano
+		</item>
+        <item>
+            Three quarter cup butter, diced
+        </item>
+    </string-array>
+
+    <string-array name="bahan5">
+        <item>
+			One and one third cups very warm water (120 degrees to 130 degrees F)
+		</item>
+		<item>
+			salt and pepper to taste
+		</item>
+        <item>
+            Two eggs
+        </item>
+    </string-array>
+
+    <string-array name="bahan6">
+        <item>
+			Pizza sauce
+		</item>
+		<item>
+			One red bell pepper, chopped
+		</item>
+        <item>
+            Four tablespoons cold water
+        </item>
+    </string-array>
+
+    <string-array name="bahan7">
+        <item>
+			Shredded mozzarella cheese
+		</item>
+		<item>
+			One green bell pepper, chopped
+		</item>
+        <item>
+            One and a half of cups ricotta cheese
+        </item>
+    </string-array>
+
+    <string-array name="bahan8">
+        <item>
+			Additional oil for grilling
+		</item>
+		<item>
+			Two cloves garlic and carrots, minced.
+		</item>
+        <item>
+            Four ounces feta cheese
+        </item>
+    </string-array>
+
+    <string-array name="bahan9">
+        <item>Additional flour for rolling</item>
+        <item>Four cups uncooked rotini pasta.</item>
+        <item>One (10 ounce) package frozen chopped spinach, thawed and drained</item>
+    </string-array>
+
+    <string-array name="bahansep">
+        <item></item>
+        <item></item>
+        <item>A half  (16 ounce) of jar roasted red peppers, drained and patted dry</item>
+    </string-array>
+
+    <string-array name="step1">
+        <item>
+			Start charcoal fire or preheat gas grill to medium-high heat.
+		</item>
+        <item>
+            Mix together the oil, vinegar, basil, oregano, salt and pepper. Set aside.
+        </item>
+        <item>
+            Mix flour, cornmeal, and salt in a bowl. Cut in butter with pastry blender until mixture resembles coarse crumbs. Beat 2 eggs with 3 tablespoons cold water; stir into flour mixture until dough holds together. Add another tablespoon water if needed.
+            Shape 2/3 of the dough into flattened round; repeat with remaining 1/3. Wrap. Refrigerate at least 30 minutes, or until firm enough to roll.
+        </item>
+    </string-array>
+
+    <string-array name="step2">
+        <item>
+			Combine 2 cups flour, undissolved yeast, sugar and salt in a large bowl. Add very warm water and oil; mix until well blended, about 1 minute. Gradually add enough flour to make a soft dough. Dough should form a ball and will be slightly sticky. Knead** on a floured surface,
+			adding additional flour if necessary, until smooth and elastic but not sticky, about 5 minutes.
+		</item>
+		<item>
+			Bring a large pot of salted water to boil; add rotini and bring to a boil again. Cook until rotini is al dente; drain well. Return the rotini to the pot.
+		</item>
+        <item>
+            In another bowl, combine ricotta cheese, crumbled feta, Parmesan cheese, 1 egg, parsley, basil, and oregano until well blended.
+        </item>
+    </string-array>
+
+    <string-array name="step3">
+        <item>
+			Divide dough into 8 portions. Pat or roll dough on a well-floured counter to about 8-inch circles; they do not need to be perfect.
+			Brush both sides of crust with additional oil. Using hands, lift each crust carefully and place on grill. Cook for 3 to 4 minutes until bottom is lightly browned and top looks set.
+			Using long handled tongs, remove crust from grill, grilled side up, to a platter or baking sheet.
+		</item>
+		<item>
+			While rotini is cooking heat oil in a frying pan and saute red bell pepper, green bell pepper, garlic and carrots. Cook until vegetables are softened. Place the broccoli in the frying pan and cook another 2 minutes.
+		</item>
+        <item>
+            Have an 8 or 9 inch springform pan ready. On a lightly floured surface, roll out the larger portion of dough into a 15 inch diameter circle. Carefully place in ungreased pan; press lightly against bottom and sides. Trim overhanging dough to 1 inch from pan rim.
+        </item>
+    </string-array>
+
+    <string-array name="step4">
+        <item>
+        Lightly add sauce and top the grilled side of each pizza crust. Excess sauce or toppings makes the pizza hard to handle. Repeat with remaining pizzas.
+		Carefully slide each pizza onto the grill. Cook an additional 3 to 4 minutes until bottom of crust is browned and cheese is melted. Remove from grill and serve immediately.
+        </item>
+        <item>
+        Pour the cooked vegetables into the pot with the pasta. Pour the vinaigrette over the pasta and vegetables. Toss to distribute vegetables and vinaigrette evenly.
+        </item>
+        <item>
+            Scatter half of the mozzarella over the bottom of the crust. Next arrange half the ham slices in an even layer. Spread with ricotta cheese mixture, then sprinkle with spinach. Cover with the remaining ham slices. Press down gently to pack layers.
+            Add red peppers in a single layer, and top with the remaining mozzarella. Press down again.
+        </item>
+    </string-array>
+
+    <string-array name="step5">
+        <item></item>
+        <item></item>
+        <item>
+            Roll out remaining dough to 8 or 9 inch circle. Place over filling to cover. Moisten edges, and seal crusts together. Crimp or flute edges. Crust should not extend above pan rim. Beat remaining egg, and brush over the crust. Cut several small vents in top crust for steam to escape.
+        </item>
+    </string-array>
+
+    <string-array name="step6">
+        <item></item>
+        <item></item>
+        <item>
+            Bake at 375 degrees F (190 degrees C) for 1 hour, or until crust is deep golden brown and pulls away from sides. Cool in pan on wire rack 45 minutes. Remove pan sides; cool completely. Cut into 12 wedges. Serve at room temperature.
+        </item>
+    </string-array>
+
+    <string-array name="foto">
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/torta</item>
+    </string-array>
+</resources>
