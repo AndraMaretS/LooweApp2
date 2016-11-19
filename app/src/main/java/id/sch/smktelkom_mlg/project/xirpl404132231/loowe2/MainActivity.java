@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         bottomBar.mapColorForTab(0, "#F44336");
-        bottomBar.mapColorForTab(0, "#03A9F4");
-        bottomBar.mapColorForTab(0, "#FF6F00");
+        bottomBar.mapColorForTab(1, "#03A9F4");
+        bottomBar.mapColorForTab(2, "#FF6F00");
 
     }
 

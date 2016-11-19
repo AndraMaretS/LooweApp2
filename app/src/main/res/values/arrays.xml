@@ -26,7 +26,7 @@
         <item>This cake is a rich, dark, moist fruit cake, very flavorful at Christmas. Try icing with almond paste for a more festive touch. This recipe is started in October or November so as to let it mellow before the holidays. 
 		I remember very well my mother storing her fruit cake in an old butter churn that belonged to my grandmother and great grandmother. I wish that I had that old crock.</item>
 		<item>This is a very simple moist white cake. It works best if all of the ingredients are at room temperature.</item>
-    </string-array>
+	</string-array>
 
 	<string-array name="food_bahan1">
 	<item>
@@ -189,5 +189,8 @@
         <item>@drawable/birthday</item>
 		<item>@drawable/ch</item>
         <item>@drawable/wedding</item>
+		<item>@drawable/cocktail</item>
+		<item>@drawable/ice</item>
+		<item>@drawable/coffee</item>
     </array>
 </resources>
