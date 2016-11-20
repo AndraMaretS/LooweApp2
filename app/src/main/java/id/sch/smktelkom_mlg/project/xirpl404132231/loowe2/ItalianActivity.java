@@ -1,11 +1,22 @@
 package id.sch.smktelkom_mlg.project.xirpl404132231.loowe2;
 
-import android.content.Intent;
+import android.content.res.Resources;
+import android.content.res.TypedArray;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+
+import java.util.ArrayList;
+
+import id.sch.smktelkom_mlg.project.xirpl404132231.loowe2.adapter.ItalianAdapter;
+import id.sch.smktelkom_mlg.project.xirpl404132231.loowe2.model.Italian;
 
 public class ItalianActivity extends AppCompatActivity {
+
+    ArrayList<Italian> mList = new ArrayList<>();
+    ItalianAdapter mAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,25 +25,29 @@ public class ItalianActivity extends AppCompatActivity {
 
         setTitle("Italian Food");
 
-        findViewById(R.id.imageViewPasta).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(ItalianActivity.this, PastaActivity.class));
-            }
-        });
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.activity_italian);
+        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(layoutManager);
+        mAdapter = new ItalianAdapter(mList);
+        recyclerView.setAdapter(mAdapter);
 
-        findViewById(R.id.imageViewPizza).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(ItalianActivity.this, PizzaActivity.class));
-            }
-        });
+        fillData();
+    }
 
-        findViewById(R.id.imageViewTorta).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(ItalianActivity.this, TortaActivity.class));
-            }
-        });
+    private void fillData() {
+        Resources resources = getResources();
+        String[] arJudul = resources.getStringArray(R.array.italian);
+        String[] arDeskripsi = resources.getStringArray(R.array.decs);
+        TypedArray a = resources.obtainTypedArray(R.array.italian_foto);
+        Drawable[] arFoto = new Drawable[a.length()];
+        for (int i = 0; i < arFoto.length; i++) {
+            arFoto[i] = a.getDrawable(i);
+        }
+        a.recycle();
+
+        for (int i = 0; i < arJudul.length; i++) {
+            mList.add(new Italian(arJudul[i], arDeskripsi[i], arFoto[i]));
+        }
+        mAdapter.notifyDataSetChanged();
     }
 }
