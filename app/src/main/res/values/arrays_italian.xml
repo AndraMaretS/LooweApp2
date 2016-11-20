@@ -12,7 +12,7 @@
         <item>This savory pie is served at room temperature. Two teaspoons dried basil may be substituted for fresh basil. Use ham or prosciutto ham.</item>
     </string-array>
 
-    <string-array name="bahan1">
+    <string-array name="italian_bahan1">
     <item>
 	Three and a half cups all-purpose flour, or as needed
 	</item>
@@ -24,7 +24,7 @@
     </item>
     </string-array>
 
-    <string-array name="bahan2">
+    <string-array name="italian_bahan2">
         <item>
 			One envelope Fleischmanns Pizza Crust Yeast
 		</item>
@@ -36,7 +36,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan3">
+    <string-array name="italian_bahan3">
         <item>
 			One tablespoon sugar
 		</item>
@@ -48,7 +48,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan4">
+    <string-array name="italian_bahan4">
         <item>
 			One and a half teaspoons salt
 		</item>
@@ -60,7 +60,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan5">
+    <string-array name="italian_bahan5">
         <item>
 			One and one third cups very warm water (120 degrees to 130 degrees F)
 		</item>
@@ -72,7 +72,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan6">
+    <string-array name="italian_bahan6">
         <item>
 			Pizza sauce
 		</item>
@@ -84,7 +84,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan7">
+    <string-array name="italian_bahan7">
         <item>
 			Shredded mozzarella cheese
 		</item>
@@ -96,7 +96,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan8">
+    <string-array name="italian_bahan8">
         <item>
 			Additional oil for grilling
 		</item>
@@ -108,19 +108,19 @@
         </item>
     </string-array>
 
-    <string-array name="bahan9">
+    <string-array name="italian_bahan9">
         <item>Additional flour for rolling</item>
         <item>Four cups uncooked rotini pasta.</item>
         <item>One (10 ounce) package frozen chopped spinach, thawed and drained</item>
     </string-array>
 
-    <string-array name="bahansep">
+    <string-array name="italian_bahansep">
         <item></item>
         <item></item>
         <item>A half  (16 ounce) of jar roasted red peppers, drained and patted dry</item>
     </string-array>
 
-    <string-array name="step1">
+    <string-array name="italian_step1">
         <item>
 			Start charcoal fire or preheat gas grill to medium-high heat.
 		</item>
@@ -133,7 +133,7 @@
         </item>
     </string-array>
 
-    <string-array name="step2">
+    <string-array name="italian_step2">
         <item>
 			Combine 2 cups flour, undissolved yeast, sugar and salt in a large bowl. Add very warm water and oil; mix until well blended, about 1 minute. Gradually add enough flour to make a soft dough. Dough should form a ball and will be slightly sticky. Knead** on a floured surface,
 			adding additional flour if necessary, until smooth and elastic but not sticky, about 5 minutes.
@@ -146,7 +146,7 @@
         </item>
     </string-array>
 
-    <string-array name="step3">
+    <string-array name="italian_step3">
         <item>
 			Divide dough into 8 portions. Pat or roll dough on a well-floured counter to about 8-inch circles; they do not need to be perfect.
 			Brush both sides of crust with additional oil. Using hands, lift each crust carefully and place on grill. Cook for 3 to 4 minutes until bottom is lightly browned and top looks set.
@@ -160,7 +160,7 @@
         </item>
     </string-array>
 
-    <string-array name="step4">
+    <string-array name="italian_step4">
         <item>
         Lightly add sauce and top the grilled side of each pizza crust. Excess sauce or toppings makes the pizza hard to handle. Repeat with remaining pizzas.
 		Carefully slide each pizza onto the grill. Cook an additional 3 to 4 minutes until bottom of crust is browned and cheese is melted. Remove from grill and serve immediately.
@@ -174,7 +174,7 @@
         </item>
     </string-array>
 
-    <string-array name="step5">
+    <string-array name="italian_step5">
         <item></item>
         <item></item>
         <item>
@@ -182,7 +182,7 @@
         </item>
     </string-array>
 
-    <string-array name="step6">
+    <string-array name="italian_step6">
         <item></item>
         <item></item>
         <item>
@@ -190,7 +190,7 @@
         </item>
     </string-array>
 
-    <string-array name="foto">
+    <string-array name="italian_foto">
         <item>@drawable/pizza</item>
         <item>@drawable/pasta</item>
         <item>@drawable/torta</item>
