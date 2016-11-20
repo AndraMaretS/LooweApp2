@@ -24,5 +24,7 @@ public class BuntutActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Indonesian Oxtail Soup (Sop Buntut)");
     }
 }

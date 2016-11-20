@@ -24,5 +24,7 @@ public class NasiActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Indonesian Fried Rice (Nasi Goreng)");
     }
 }

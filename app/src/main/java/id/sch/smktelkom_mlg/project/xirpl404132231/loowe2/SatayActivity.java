@@ -24,5 +24,7 @@ public class SatayActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Indonesian Satay");
     }
 }
