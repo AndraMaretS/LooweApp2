@@ -1,2 +1,308 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="traditional">
+        <item>Indonesian Fried Rice (Nasi Goreng)</item>
+        <item>Indonesian Satay</item>
+        <item>Indonesian Oxtail Soup (Sop Buntut)</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Nasi Goreng, Indonesian fried rice. This dish can be enjoyed by itself or as the basis of a larger meal, for example with a rijsttafel. It is very easy to make and won't take more than 20 minutes to prepare.</item>
+        <item>This is an original Indonesian satay. I send it from a long way. Hope all over the world, readers can enjoy it.</item>
+        <item>This is my version of Indonesian Sop Buntot, which is a deeply comforting oxtail and vegetable soup. Rich in collagen and filled with complex flavors, I always serve this with steamed rice and extra sliced tomatoes, fish sauce, shallot flakes (or French-fried onions), and lime wedges on the side.</item>
+    </string-array>
+
+    <string-array name="ingredients1">
+    <item>
+        One cup uncooked white rice
+	</item>
+	<item>
+        Three tablespoons soy sauce
+    </item>
+    <item>
+        Four shallots, peeled and halved
+    </item>
+    </string-array>
+
+    <string-array name="ingredients2">
+        <item>
+            Two cups water
+		</item>
+		<item>
+            Three tablespoons tomato sauce
+		</item>
+        <item>
+            One large onion, quartered, divided
+        </item>
+    </string-array>
+
+    <string-array name="ingredients3">
+        <item>
+            Cooking spray
+		</item>
+		<item>
+            One tablespoons peanut oil
+		</item>
+        <item>
+            One (two inches) piece ginger, peeled and thinly sliced across the grain
+        </item>
+    </string-array>
+
+    <string-array name="ingredients4">
+        <item>
+            Three eggs, beaten
+		</item>
+		<item>
+            Two cloves garlic, peeled and minced
+		</item>
+        <item>
+            Five cloves garlic, peeled
+        </item>
+    </string-array>
+
+    <string-array name="ingredients5">
+        <item>
+            One tablespoon vegetable oil
+		</item>
+		<item>
+            One pinch ground black pepper
+		</item>
+        <item>
+            Three tablespoons canola oil
+        </item>
+    </string-array>
+
+    <string-array name="ingredients6">
+        <item>
+            One onion, chopped
+		</item>
+		<item>
+            One pinch ground cumin
+		</item>
+        <item>
+            Six whole cloves (optional)
+        </item>
+    </string-array>
+
+    <string-array name="ingredients7">
+        <item>
+            One leek, chopped
+		</item>
+		<item>
+            Six skinless, boneless hicken breast halves - cubed
+		</item>
+        <item>
+            A half teaspoon ground nutmeg
+        </item>
+    </string-array>
+
+    <string-array name="ingredients8">
+        <item>
+            One clove garlic, minced
+		</item>
+		<item>
+            One tablespoon vegetable oil
+		</item>
+        <item>
+            A quarter teaspoon ground cinnamon
+        </item>
+    </string-array>
+
+    <string-array name="ingredients9">
+        <item>
+            Two green chile peppers, chopped
+        </item>
+        <item>
+            A quarter up minced onion
+        </item>
+        <item>
+            Four pounds meaty oxtail pieces, at room temperature
+        </item>
+    </string-array>
+
+    <string-array name="ingredients10">
+        <item>
+            A half pound skinless, boneless chicken breasts, cut into thin strips
+        </item>
+        <item>
+            One cclove garlic, peeled and minced
+        </item>
+        <item>
+            Two large carrots, cut into two inches pieces
+        </item>
+    </string-array>
+
+    <string-array name="ingredients11">
+    <item>
+        A half pound peeled and deveined prawns
+	</item>
+	<item>
+        One cup water
+    </item>
+    <item>
+        Three stalks celery, cut into one inch pieces
+    </item>
+    </string-array>
+
+    <string-array name="ingredients12">
+        <item>
+            One teaspoon ground coriander
+		</item>
+		<item>
+            A half cup chunky peanut butter
+		</item>
+        <item>
+            Water to cover
+        </item>
+    </string-array>
+
+    <string-array name="ingredients13">
+        <item>
+            One teaspoon ground cumin
+		</item>
+		<item>
+            Two tablespoons soy sauce
+		</item>
+        <item>
+            Two teaspoons salt
+        </item>
+    </string-array>
+
+    <string-array name="ingredients14">
+        <item>
+            Three tablespoons sweet soy sauce (Indonesian kecap manis)
+		</item>
+		<item>
+            Two tablespoons white sugar
+		</item>
+        <item>
+            A half teaspoon ground black pepper
+        </item>
+    </string-array>
+
+    <string-array name="ingredients15">
+        <item></item>
+		<item>
+            One tablespoon lemon juice
+		</item>
+        <item>
+            Three waxy potatoes, scrubbed and cut into one and a half inches chunks
+        </item>
+    </string-array>
+
+    <string-array name="ingredients16">
+        <item></item>
+		<item>
+            Skewers
+		</item>
+        <item>
+            Three large carrots, cut into two inchec pieces
+        </item>
+    </string-array>
+
+    <string-array name="ingredients17">
+        <item></item>
+		<item></item>
+        <item>
+            Two tablespoons white sugar
+        </item>
+    </string-array>
+
+    <string-array name="ingredients18">
+        <item></item>
+		<item></item>
+        <item>
+            Two tablespoons fish sauce
+        </item>
+    </string-array>
+
+    <string-array name="ingredients19">
+        <item></item>
+        <item></item>
+        <item>
+            Three ripe roma tomatoes, sliced horizontally into a half inch wedges
+        </item>
+    </string-array>
+
+    <string-array name="ingredients20">
+        <item></item>
+        <item></item>
+        <item>
+            One (two point eight ounce) can French fried onions
+        </item>
+    </string-array>
+
+
+    <string-array name="step1">
+        <item>
+            Bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes.
+            Spread onto a baking sheet, and refrigerate 2 hours until cold.
+		</item>
+        <item>
+            In a bowl, mix soy sauce, tomato sauce, peanut oil, garlic, black pepper, and cumin. Place chicken into the mixture, and stir to coat.
+            Cover, and marinate in the refrigerator for at least 15 minutes, but not overnight. This will make the meat too dark.
+        </item>
+        <item>
+            Combine shallots, 2 onion quarters, ginger, and garlic in a food processor; pulse into a paste.
+        </item>
+    </string-array>
+
+    <string-array name="step2">
+        <item>
+            Heat a large nonstick skillet over medium heat. Spray with nonstick cooking spray. Pour eggs into hot skillet. Cook until the eggs begin to set,
+            lifting up the edges of the set eggs to allow the uncooked egg to contact the hot pan, about 1 minute. Flip omelet in one piece and cook until fully set,
+            about 30 seconds. Slice omelet into 1/2 inch strips.
+		</item>
+		<item>
+            Preheat the grill for high heat.
+		</item>
+        <item>
+            Heat oil in a large pot over medium-high heat; cook and stir cloves, nutmeg, and cinnamon until fragrant, about 30 seconds.
+            Add shallot paste and fry until fragrant and slightly browned, 2 to 3 minutes. Add oxtails; stir until completely covered with spices and paste and browned, about 5 minutes.
+        </item>
+    </string-array>
+
+    <string-array name="step3">
+        <item>
+            Heat the vegetable oil in a wok or large frying pan over high heat. Stir in the onion, leek, garlic, and chile peppers.
+            Cook, stirring, until onion is soft, 3 to 5 minutes. Stir in the chicken, prawns, coriander, and cumin, mixing well. Cook and stir for approximately 5 minutes.
+		</item>
+		<item>
+            Heat vegetable oil in a saucepan over medium heat, and saute onion and garlic until lightly browned. Mix in water, peanut butter, soy sauce, and sugar.
+            Cook and stir until well blended. Remove from heat, mix in lemon juice, and set aside.
+		</item>
+        <item>
+            Stir remaining onion quarters, 2 carrots, and celery into the pot. Pour in enough water to cover by 2 inches. Bring to a boil; reduce heat, cover, and simmer until oxtail is tender, about 5 hours.
+        </item>
+    </string-array>
+
+    <string-array name="step4">
+        <item>
+            Mix in the cold rice, sweet soy sauce, and omelet strips;
+            cook until shrimp are bright pink and chicken is no longer pink in the center, 3 to 5 minutes.
+        </item>
+        <item>
+            Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade.
+            Grill skewers about 5 minutes per side, until chicken juices run clear. Serve with the peanut sauce.
+        </item>
+        <item>
+            Stir salt, black pepper, potatoes, and 3 carrots into the pot.
+            Increase heat and simmer soup until potatoes and carrots are tender, about 15 minutes. Add sugar and fish sauce; stir well to combine.
+        </item>
+    </string-array>
+
+    <string-array name="step5">
+        <item></item>
+        <item></item>
+        <item>
+            Ladle soup into large serving bowls and top with tomato wedges and French-fried onions.
+        </item>
+    </string-array>
+
+
+    <string-array name="pict">
+        <item>@drawable/friedrice</item>
+        <item>@drawable/satay</item>
+        <item>@drawable/sopbuntut</item>
+    </string-array>
+</resources>
