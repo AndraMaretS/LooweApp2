@@ -18,7 +18,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan1">
+    <string-array name="minum_bahan1">
         <item>
             One and a half of fluid ounces light rum
         </item>
@@ -30,7 +30,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan2">
+    <string-array name="minum_bahan2">
         <item>
             One fluid ounce lime juice
         </item>
@@ -42,7 +42,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan3">
+    <string-array name="minum_bahan3">
         <item>
             One teaspoon simple syrup
         </item>
@@ -54,7 +54,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan4">
+    <string-array name="minum_bahan4">
         <item>
             One cup ice
         </item>
@@ -66,7 +66,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan5">
+    <string-array name="minum_bahan5">
         <item></item>
         <item></item>
         <item>
@@ -74,7 +74,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan6">
+    <string-array name="minum_bahan6">
         <item></item>
         <item></item>
         <item>
@@ -82,7 +82,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan7">
+    <string-array name="minum_bahan7">
         <item></item>
         <item></item>
         <item>
@@ -90,7 +90,7 @@
         </item>
     </string-array>
 
-    <string-array name="bahan8">
+    <string-array name="minum_bahan8">
         <item></item>
         <item></item>
         <item>
@@ -98,7 +98,7 @@
         </item>
     </string-array>
 
-    <string-array name="step1">
+    <string-array name="minum_step1">
         <item>
             Combine light rum, lime juice, and simple syrup in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass.
         </item>
@@ -111,13 +111,13 @@
         </item>
     </string-array>
 
-    <string-array name="step2">
+    <string-array name="minum_step2">
         <item></item>
         <item>
             Pour condensed milk into the warmed glass. Top with coffee. Stir in creamer and hot cocoa mix.
         </item>
         <item>
-            When chocolate mixture has completely cooled, stir in the cream, and vanilla. Pour into an ice cream maker, and freeze according to manufacturer's directions.
+            When chocolate mixture has completely cooled, stir in the cream, and vanilla. Pour into an ice cream maker, and freeze according to manufacturers directions.
         </item>
     </string-array>
 

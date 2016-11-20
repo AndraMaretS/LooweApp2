@@ -97,4 +97,5 @@
     <string name="title_activity_pasta">PastaActivity</string>
     <string name="title_activity_pizza">PizzaActivity</string>
     <string name="title_activity_torta">Torta</string>
+    <string name="title_activity_detail">Cake</string>
 </resources>
