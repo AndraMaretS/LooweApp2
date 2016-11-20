@@ -35,6 +35,15 @@ public class food extends Fragment {
                 startActivity(intent);
             }
         });
+
+        Button italian = (Button) v.findViewById(R.id.button3);
+        italian.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), ItalianActivity.class);
+                startActivity(intent);
+            }
+        });
         return v;
     }
 }
