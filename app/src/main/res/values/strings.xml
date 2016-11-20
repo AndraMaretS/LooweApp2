@@ -98,4 +98,7 @@
     <string name="title_activity_pizza">PizzaActivity</string>
     <string name="title_activity_torta">Torta</string>
     <string name="title_activity_detail">Cake</string>
+    <string name="title_activity_nasi">NasiActivity</string>
+    <string name="title_activity_satay">SatayActivity</string>
+    <string name="title_activity_buntut">BuntutActivity</string>
 </resources>

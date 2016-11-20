@@ -41,6 +41,19 @@
             android:name=".TortaActivity"
             android:label="@string/title_activity_torta"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".TraditionalActivity" />
+        <activity
+            android:name=".NasiActivity"
+            android:label="@string/title_activity_nasi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SatayActivity"
+            android:label="@string/title_activity_satay"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BuntutActivity"
+            android:label="@string/title_activity_buntut"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
