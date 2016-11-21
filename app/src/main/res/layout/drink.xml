@@ -4,8 +4,28 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
+    <Button
+        android:id="@+id/buttoncocktail"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="drink" />
+        android:layout_height="150dp"
+        android:background="@drawable/cocktail"
+        android:elevation="0dp"
+        android:text="Cocktail"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/buttoncofee"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/coffee"
+        android:text="Cofee"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/buttonice"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/ice"
+        android:text="Ice Cream"
+        android:textColor="@color/white" />
 </LinearLayout>

@@ -101,4 +101,7 @@
     <string name="title_activity_nasi">NasiActivity</string>
     <string name="title_activity_satay">SatayActivity</string>
     <string name="title_activity_buntut">BuntutActivity</string>
+    <string name="title_activity_cocktail">CocktailActivity</string>
+    <string name="title_activity_cofee">CofeeActivity</string>
+    <string name="title_activity_ice">IceActivity</string>
 </resources>

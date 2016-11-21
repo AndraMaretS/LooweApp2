@@ -53,6 +53,18 @@
         <activity
             android:name=".BuntutActivity"
             android:label="@string/title_activity_buntut"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CocktailActivity"
+            android:label="@string/title_activity_cocktail"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CofeeActivity"
+            android:label="@string/title_activity_cofee"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IceActivity"
+            android:label="@string/title_activity_ice"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
