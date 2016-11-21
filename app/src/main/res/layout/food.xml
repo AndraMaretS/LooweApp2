@@ -7,19 +7,23 @@
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Cake" />
+        android:layout_height="150dp"
+        android:background="@drawable/birthday"
+        android:elevation="0dp"
+        android:text="Cake"
+        android:textColor="@color/colorPrimary" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="goToAttract"
+        android:layout_height="150dp"
+        android:background="@drawable/friedrice"
         android:text="Tradisional food" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="150dp"
+        android:background="@drawable/pasta"
         android:text="Italian food" />
 </LinearLayout>
