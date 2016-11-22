@@ -8,10 +8,81 @@
     tools:context="id.sch.smktelkom_mlg.project.xirpl404132231.loowe2.CofeeActivity"
     tools:showIn="@layout/activity_cofee">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Deskripsi"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/place_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Traditional Vietnamese coffee with an optional delicious twist!"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Bahan"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/place_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Two tablespoons sweetened condensed milk, or more to taste"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Two third of cup strong brewed coffee"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One teaspoon non-dairy creamer, or more to taste"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One teaspoon hot cocoa mix, or more to taste (optional)"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Resep"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Pour some boiling water in a glass. Let sit to warm the glass, about 1 minute. Pour out water"
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Pour condensed milk into the warmed glass. Top with coffee. Stir in creamer and hot cocoa mix."
+            android:textColor="@color/bb_darkBackgroundColor" />
+
+    </LinearLayout>
 
 </android.support.v4.widget.NestedScrollView>

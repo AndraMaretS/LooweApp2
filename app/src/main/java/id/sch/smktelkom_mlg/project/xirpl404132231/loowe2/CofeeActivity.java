@@ -24,5 +24,6 @@ public class CofeeActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        setTitle("Cofee");
     }
 }
