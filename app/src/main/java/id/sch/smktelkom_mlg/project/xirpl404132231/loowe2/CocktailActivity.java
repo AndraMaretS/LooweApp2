@@ -24,5 +24,7 @@ public class CocktailActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Cocktail Drink");
     }
 }
