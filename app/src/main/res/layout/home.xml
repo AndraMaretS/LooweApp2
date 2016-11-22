@@ -1,39 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/relativeLayout"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/relativeLayout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
         android:padding="8dp">
 
-        <ImageView
-            android:id="@+id/imgView"
-            android:layout_width="match_parent"
-            android:layout_height="160dp"
-            android:scaleType="centerCrop"
-            tools:src="@drawable/birthday" />
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="160dp"
-            android:alpha="0.3"
-            android:background="#424242" />
+        <Button
+            android:id="@+id/ice"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:background="@drawable/ice"
+            android:text="Ice Cream"
+            android:textColor="@color/white" />
 
-        <TextView
-            android:id="@+id/textJudul"
-            android:layout_width="match_parent"
-            android:layout_height="160dp"
-            android:gravity="center"
-            android:textAppearance="@style/TextAppearance.AppCompat.Title"
-            android:textColor="@android:color/white"
-            tools:text="Judul" />
+        <Button
+            android:id="@+id/nasgor"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:background="@drawable/sego"
+            android:text="Fried Rice"
+            android:textColor="@color/white" />
 
-    </RelativeLayout>
+        <Button
+            android:id="@+id/pizza"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="2"
+            android:background="@drawable/pizza"
+            android:text="Pizza"
+            android:textColor="@color/white" />
 
-</android.support.design.widget.CoordinatorLayout>
+        <Button
+            android:id="@+id/sate"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:background="@drawable/sate"
+            android:text="Satay"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/pasta"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="3"
+            android:background="@drawable/pasta"
+            android:text="Pasta"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/christmas"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="3"
+            android:background="@drawable/ch"
+            android:text="Christmast Cake"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/kopi"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="4"
+            android:background="@drawable/coffee"
+            android:text="Coffee"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/buntut"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="4"
+            android:background="@drawable/sop"
+            android:text="Buntut Soup"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/torta"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="5"
+            android:background="@drawable/torta"
+            android:text="Torta"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/cake"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:background="@drawable/birthday"
+            android:paddingRight="8dp"
+            android:text="Bithday Cake"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/cocktail"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:background="@drawable/cocktail"
+            android:paddingLeft="10dp"
+            android:text="Cocktail"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/wedding"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_column="1"
+            android:layout_row="5"
+            android:background="@drawable/wedding"
+            android:text="Wedding Cake"
+            android:textColor="@color/white" />
+
+
+    </GridLayout>
+
+</ScrollView>
