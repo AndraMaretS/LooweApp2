@@ -24,5 +24,7 @@ public class IceActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        setTitle("Ice Cream");
     }
 }
